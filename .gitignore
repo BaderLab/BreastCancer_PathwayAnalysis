@@ -1,0 +1,5 @@
+*.pyc
+*.class
+Overall/data/status/**
+Overall/data/all.meta.gwas.icogs.oncoarray.overall.nogenomiccontrol1*.txt
+ERNeg/status/**

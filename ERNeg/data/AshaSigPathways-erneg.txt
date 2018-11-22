@@ -1,0 +1,79 @@
+BIOCARTA_CELLCYCLE_PATHWAY	0.000795372	0.085260218	23	MSIGDB_C2	BIOCARTA_CELLCYCLE_PATHWAY
+BIOCARTA_G1_PATHWAY	0.000526156	0.073061356	28	MSIGDB_C2	BIOCARTA_G1_PATHWAY
+Regulation of nuclear beta catenin signaling and target gene transcription	0.00119783	0.101103648	73	PATHWAY INTERACTION DATABASE NCI-NATURE CURATED DATA	REGULATION OF NUCLEAR BETA CATENIN SIGNALING AND TARGET GENE TRANSCRIPTION
+p53 pathway	0.001089303	0.097241091	35	PANTHER PATHWAY	P00059
+Chromosome Maintenance	0.001124056	0.099308622	65	REACTOME DATABASE ID RELEASE 55	73886
+Regulation of pyruvate dehydrogenase (PDH) complex	0.000458022	0.06833969	12	REACTOME	R-HSA-204174.1
+Pyruvate metabolism and Citric Acid (TCA) cycle	0.000379125	0.065717819	33	REACTOME DATABASE ID RELEASE 55	71406
+Mitochondrial translation	0.000371229	0.065589239	62	REACTOME	R-HSA-5368287.1
+Trafficking of GluR2-containing AMPA receptors	0.001198014	0.099823855	10	REACTOME	R-HSA-416993.1
+Mitochondrial translation elongation	0.001010237	0.092902536	57	REACTOME DATABASE ID RELEASE 55	5389840
+Mitochondrial translation initiation	0.000152154	0.042600109	58	REACTOME DATABASE ID RELEASE 55	5368286
+Signaling by Retinoic Acid	2.85E-06	0.006638978	36	REACTOME	R-HSA-5362517.1
+Cellular Senescence	0.000658481	0.078349226	128	REACTOME DATABASE ID RELEASE 55	2559583
+Nuclear Receptor transcription pathway	0.000220512	0.050752082	35	REACTOME	R-HSA-383280.1
+Mitochondrial translation termination	0.00115439	0.099356204	57	REACTOME DATABASE ID RELEASE 55	5419276
+Pyruvate metabolism	0.000193629	0.048534523	17	REACTOME	R-HSA-70268.5
+recombinational repair	2.76E-05	0.024640822	61	GOBP	GO:0000725
+regulation of acyl-CoA biosynthetic process	0.000112699	0.037207459	10	GOBP	GO:0050812
+regulation of coenzyme metabolic process	4.58E-05	0.025960107	26	GOBP	GO:0051196
+mitochondrial translational termination	0.00115439	0.099356204	57	GOBP	GO:0070126
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	0.000974156	0.092397996	24	GOBP	GO:1900740
+positive regulation of nitric-oxide synthase activity	0.00082061	0.084985404	14	GOBP	GO:0051000
+regulation of acetyl-CoA biosynthetic process from pyruvate	0.000112699	0.037207459	10	GOBP	GO:0010510
+double-strand break repair	8.79E-07	0.004085525	106	GOBP	GO:0006302
+meiotic nuclear division	0.00015392	0.041427223	64	GOBP	GO:0007126
+cell cycle checkpoint	0.000771811	0.084280975	164	GOBP	GO:0000075
+cellular protein complex disassembly	0.000408142	0.06509437	132	GOBP	GO:0043624
+regulation of cellular carbohydrate metabolic process	0.000676711	0.078037111	82	GOBP	GO:0010675
+sister chromatid segregation	0.000753849	0.085320554	63	GOBP	GO:0000819
+regulation of cell aging	0.000329089	0.063535921	23	GOBP	GO:0090342
+regulation of cofactor metabolic process	4.58E-05	0.025960107	26	GOBP	GO:0051193
+T cell homeostasis	0.000666658	0.078099187	10	GOBP	GO:0043029
+protein K63-linked deubiquitination	0.00106838	0.096662386	17	GOBP	GO:0070536
+double-strand break repair via homologous recombination	3.58E-05	0.027804267	60	GOBP	GO:0000724
+regulation of gene silencing	0.000129734	0.040066	27	GOBP	GO:0060968
+ncRNA transcription	0.000433359	0.06591472	18	GOBP	GO:0098781
+production of small RNA involved in gene silencing by RNA	0.000821366	0.082433323	19	GOBP	GO:0070918
+cellular response to oxygen levels	0.000635897	0.078048944	72	GOBP	GO:0071453
+lymphocyte homeostasis	0.000431393	0.06709502	13	GOBP	GO:0002260
+pyruvate metabolic process	4.30E-05	0.02941578	39	GOBP	GO:0006090
+intrinsic apoptotic signaling pathway in response to oxidative stress	0.000924686	0.090125461	10	GOBP	GO:0008631
+cellular response to dsRNA	0.000626422	0.078646355	29	GOBP	GO:0071359
+cell death in response to oxidative stress	0.000924686	0.090125461	10	GOBP	GO:0036473
+DNA strand elongation	6.15E-05	0.030568481	32	GOBP	GO:0022616
+positive regulation of autophagy	0.001191154	0.101700389	135	GOBP	GO:0010508
+mitochondrial translational elongation	0.001010237	0.092902536	57	GOBP	GO:0070125
+regulation of protein homooligomerization	0.000563495	0.073600732	12	GOBP	GO:0032462
+maintenance of protein localization in organelle	0.000756687	0.084168739	14	GOBP	GO:0072595
+regulation of carbohydrate metabolic process	0.000341248	0.064084377	89	GOBP	GO:0006109
+organelle fission	4.87E-05	0.025455963	198	GOBP	GO:0048285
+meiotic cell cycle	0.000300671	0.064379966	69	GOBP	GO:0051321
+mitochondrial translational initiation	0.000152154	0.042600109	58	GOBP	GO:0070124
+translational termination	0.000518635	0.073273002	112	GOBP	GO:0006415
+intrinsic apoptotic signaling pathway	6.78E-06	0.014980258	112	GOBP	GO:0097193
+macromolecular complex disassembly	9.51E-05	0.036599494	150	GOBP	GO:0032984
+DNA replication	1.94E-05	0.018530774	125	GOBP	GO:0006260
+protein complex disassembly	0.00030238	0.062623437	145	GOBP	GO:0043241
+posttranscriptional gene silencing	0.00034504	0.062843318	33	GOBP	GO:0016441
+anatomical structure homeostasis	0.000640388	0.077114284	135	GOBP	GO:0060249
+mitochondrial translation	0.000807455	0.08488996	72	GOBP	GO:0032543
+regulation of extrinsic apoptotic signaling pathway	0.000532644	0.072624462	93	GOBP	GO:2001236
+DNA integrity checkpoint	6.91E-05	0.032343739	114	GOBP	GO:0031570
+positive regulation of monooxygenase activity	0.000397716	0.06675643	20	GOBP	GO:0032770
+negative regulation of gene silencing	0.000534836	0.071496687	13	GOBP	GO:0060969
+DNA recombination	1.18E-05	0.017618826	122	GOBP	GO:0006310
+regulation of cellular senescence	0.000166197	0.043722974	18	GOBP	GO:2000772
+DNA-dependent DNA replication	0.000202781	0.048625043	68	GOBP	GO:0006261
+nuclear division	0.000261032	0.057946362	185	GOBP	GO:0000280
+cellular response to decreased oxygen levels	0.000405952	0.066364246	68	GOBP	GO:0036294
+DNA conformation change	0.000579115	0.074140262	131	GOBP	GO:0071103
+replicative senescence	0.000510547	0.073857212	10	GOBP	GO:0090399
+regulation of sulfur metabolic process	8.52E-05	0.0346068	13	GOBP	GO:0042762
+chromosome segregation	9.89E-05	0.035855857	134	GOBP	GO:0007059
+regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	0.000974156	0.092397996	24	GOBP	GO:1900739
+dsRNA fragmentation	0.000821366	0.082433323	19	GOBP	GO:0031050
+cellular response to hypoxia	0.000326699	0.064966037	66	GOBP	GO:0071456
+regulation of glucose metabolic process	1.79E-05	0.020257395	48	GOBP	GO:0010906
+translational initiation	1.32E-05	0.016750652	139	GOBP	GO:0006413
+DNA damage checkpoint	7.49E-05	0.032173509	108	GOBP	GO:0000077
